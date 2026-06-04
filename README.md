@@ -19,7 +19,7 @@ print ( "The End")
 import random
 a=random.randint(1,11)
 while ( a!=11):
-    print (a)
+    print (qqme)
     a=random.randint(1,11)
 print ( "The End")
 '''
