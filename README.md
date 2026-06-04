@@ -1,4 +1,3 @@
-[Дзюба_Наталія IT-1-1.py](https://github.com/user-attachments/files/28590749/_.IT-1-1.py)
 '''
 a=int (input("Введіть число"))
 while ( a!=0):
